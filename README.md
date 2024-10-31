@@ -30,23 +30,27 @@ This project is a responsive multipage website created using React, HTML, CSS, a
 
    ```bash
    git clone https://github.com/your-username/company-name-website.git
+   ```
 
 2. Navigate into the project directory:
 
 ```bash
 cd company-name-website
+```
 
 
 3. Install the dependencies:
 
 ```bash
 npm install
+```
 
 ## Usage
 1. Start the development server:
 
 ```bash
 npm start
+```
 2. Open your web browser and navigate to http://localhost:3000 to view the website.
 
 ## Project Structure
@@ -67,6 +71,7 @@ npm start
   │   └── index.js             # Entry point for the application
   └── styles
       └── App.css              # Custom styles for the application
+```
       
 
 
